@@ -638,7 +638,7 @@
 
 <b>Local</b>
 
-<b>1 )</b> Clone project `git clone https://github.com/devsyx/spring-boot-microservices.git`
+<b>1 )</b> Clone project `git clone https://github.com/TEERTH-KOLHI/Spring-Boot-Microservices-Platform.git`
 
 <b>2 )</b> Go to the project's home directory :  `cd spring-boot-microservices`
 

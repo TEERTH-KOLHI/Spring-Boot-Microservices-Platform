@@ -1,0 +1,13 @@
+package com.microservices.notificationservice.request;
+
+import lombok.Builder;
+import lombok.Getter;
+
+@Getter
+@Builder
+public class SendNotificationRequest {
+    private String userId;
+    private String offerId;
+    private String message;
+}
+
